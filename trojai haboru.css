@@ -35,21 +35,7 @@ body{
   background-color: #C5C599;
   width: 600px;
   border: solid 4px;
-}
-
-h3{
-  margin-top: 0px;
-  margin: 25px 0px;
-  padding-bottom: 15px;
-  padding-left: 10px;
-}
-
-a {
-  margin-top: 0px;
-  padding-bottom: 15px;
-  font-style: italic;
-  font-weight: bold;
-  color: darkblue;
+  padding-left: 10px
 }
 
 .img {
